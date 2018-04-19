@@ -2,7 +2,7 @@ import SpriteKit
 
 internal class Score: WorldElement {
     
-    internal let ScoreMultiplier = 5
+    internal let ScoreMultiplier = 10
     
     var physicsBody: SKPhysicsBody?
     
